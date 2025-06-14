@@ -13,7 +13,6 @@
 [![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/pulls "GitHub pull requests")
 [![Netlify Status](https://api.netlify.com/api/v1/badges/451ed0e0-3541-474e-896a-4987e30a7722/deploy-status)](https://spaceportfolio.netlify.app/ "Netlify Status")
 
-<!-- Table of Contents -->
 <details>
 
 <summary>
@@ -146,8 +145,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## :star: Give A Star
-
-You can also give this repository a star to show more people and they can use this repository.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
