@@ -129,4 +129,3 @@ Useful resources and dependencies that are used in Space Portfolio.
 - [postcss](https://www.npmjs.com/package/postcss): ^8
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.3.0
 - [typescript](https://www.npmjs.com/package/typescript): ^5
-
