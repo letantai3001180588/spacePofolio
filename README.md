@@ -119,4 +119,3 @@ Useful resources and dependencies that are used in Space Portfolio.
 - [eslint-config-next](https://www.npmjs.com/package/eslint-config-next): 14.0.4
 - [postcss](https://www.npmjs.com/package/postcss): ^8
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.3.0
-- [typescript](https://www.npmjs.com/package/typescript): ^5
