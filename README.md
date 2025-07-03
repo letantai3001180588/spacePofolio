@@ -113,4 +113,3 @@ Useful resources and dependencies that are used in Space Portfolio.
 - [three](https://www.npmjs.com/package/three): ^0.160.0
 - [@types/node](https://www.npmjs.com/package/@types/node): ^20
 - [@types/react](https://www.npmjs.com/package/@types/react): ^18
-- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^18
