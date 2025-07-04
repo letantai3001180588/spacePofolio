@@ -112,4 +112,3 @@ Useful resources and dependencies that are used in Space Portfolio.
 - [tailwind-merge](https://www.npmjs.com/package/tailwind-merge): ^2.2.0
 - [three](https://www.npmjs.com/package/three): ^0.160.0
 - [@types/node](https://www.npmjs.com/package/@types/node): ^20
-- [@types/react](https://www.npmjs.com/package/@types/react): ^18
