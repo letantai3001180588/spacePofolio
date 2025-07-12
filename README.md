@@ -107,4 +107,3 @@ Useful resources and dependencies that are used in Space Portfolio.
 - [next](https://www.npmjs.com/package/next): 14.0.4
 - [react](https://www.npmjs.com/package/react): ^18
 - [react-dom](https://www.npmjs.com/package/react-dom): ^18
-- [react-icons](https://www.npmjs.com/package/react-icons): ^5.0.1
