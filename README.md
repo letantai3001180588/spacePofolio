@@ -104,4 +104,3 @@ Useful resources and dependencies that are used in Space Portfolio.
 - [@react-three/fiber](https://www.npmjs.com/package/@react-three/fiber): ^8.15.13
 - [clsx](https://www.npmjs.com/package/clsx): ^2.1.0
 - [framer-motion](https://www.npmjs.com/package/framer-motion): ^10.17.12
-- [next](https://www.npmjs.com/package/next): 14.0.4
