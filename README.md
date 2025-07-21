@@ -99,4 +99,4 @@ You might encounter some bugs while using this app. You are more than welcome to
 
 Useful resources and dependencies that are used in Space Portfolio.
 
-- [@heroicons/react](https://www.npmjs.com/package/@heroicons/react): ^2.1.1
+
