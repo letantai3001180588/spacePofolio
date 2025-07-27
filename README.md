@@ -95,4 +95,3 @@ space-portfolio/
 
 You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
 
-## :gem: Acknowledgements
