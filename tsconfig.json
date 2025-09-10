@@ -9,11 +9,11 @@
     "esModuleInterop": true,
     "module": "esnext",
     "moduleResolution": "node",
-    "types": ["three"],
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
+    "ignoreDeprecations": "6.0",
     "plugins": [
       {
         "name": "next"
